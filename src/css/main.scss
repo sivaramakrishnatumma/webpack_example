@@ -1,0 +1,17 @@
+@import 'colors';
+*, html, body {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: yellow;
+    text-align: center;
+}
+
+.redColor {
+    color: red;
+}
+
+.greenColor {
+    color: green;
+}
